@@ -41,4 +41,4 @@ This is the highlight of my internship. I transitioned from a basic Naive Bayes 
 - **DevOps for AI:** Cloud deployment on Hugging Face Spaces and Model Hub.
 
 ---
-**Contact me on LinkedIn:** [Bilal Ahmed](https://www.linkedin.com/in/bilalahmed251/)
+**Contact me on LinkedIn:** [Bilal Ahmed](https://www.linkedin.com/in/bilalahmed-data/)
